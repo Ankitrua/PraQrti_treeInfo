@@ -5,4 +5,8 @@ members under the aegis of Department of Computer Science; generated various ide
 development, played a crucial role in groundwork.
 
 #skill
-https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif
+HTML
+CSS
+JAVASCRIPT
+![paraqrti](https://github.com/ankitkanojiya07/PraQrti_treeInfo/assets/94682775/71732010-ce71-4520-b9e5-ac54f69ce2be)
+
