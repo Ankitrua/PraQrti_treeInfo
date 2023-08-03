@@ -7,9 +7,9 @@ development, played a crucial role in groundwork.
 https://ankitkanojiya07.github.io/PraQrti_treeInfo/
 
 # skill
-HTML
-CSS
-JAVASCRIPT
+HTML,
+CSS,
+JAVASCRIPT.
 
 
 ![paraqrti](https://github.com/ankitkanojiya07/PraQrti_treeInfo/assets/94682775/71732010-ce71-4520-b9e5-ac54f69ce2be)
